@@ -1,0 +1,45 @@
+# Setting PATH for Python 3.6
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
+export PATH
+
+
+# added by Anaconda2 4.1.1 installer
+export PATH="//anaconda/bin:$PATH"
+
+
+export PYENV_ROOT=$HOME/.pyenv
+export PATH=$PATH:$PYENV_ROOT/bin
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
+# Setting PATH for Python 2.7
+# The original version is saved in .bash_profile.pysave
+#PATH=":${PATH}:/Library/Frameworks/Python.framework/Versions/2.7/bin"
+#export PATH
+
+# added by Anaconda3 4.2.0 installer
+#export PATH="/Users/wrk/anaconda/bin:$PATH"
+
+
+_________________________________________\\
+
+# added by Anaconda2 4.1.1 installer
+export PATH="/Applications/anaconda/bin:$PATH"
+
+export PYENV_ROOT=$HOME/.pyenv
+export PATH=$PATH:$PYENV_ROOT/bin
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
+# Setting PATH for Python 2.7
+# The original version is saved in .bash_profile.pysave
+#PATH=":${PATH}:/Library/Frameworks/Python.framework/Versions/2.7/bin"
+#export PATH
+
+# added by Anaconda3 4.2.0 installer
+#export PATH="/Users/wrk/anaconda/bin:$PATH"
+
+# added by Anaconda3 4.2.0 installer
+#export PATH="/Applications/anaconda/bin:$PATH"
+
+# added by Anaconda3 4.2.0 installer
+#export PATH="/Applications/anaconda/bin:$PATH"

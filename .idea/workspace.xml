@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31863578-76b3-4920-824f-b906a9fb914e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createDist.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createDist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createDist2.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createDist2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/EXTRAS/createFirstPlot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/README.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/datingTestSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/datingTestSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/datingTestSet2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/datingTestSet2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/kNN.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch02/kNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/classifierStorage.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/classifierStorage.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/lenses.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/lenses.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/treePlotter.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/treePlotter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/trees.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch03/trees.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/create2Normal.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/create2Normal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/monoDemo.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/EXTRAS/monoDemo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/bayes.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch04/bayes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plot2D.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plot2D.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plotGD.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plotGD.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/plotSDerror.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/EXTRAS/sigmoidPlot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/horseColicTest.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/horseColicTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/horseColicTraining.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/horseColicTraining.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/logRegres.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/logRegres.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/testSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch05/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/notLinSeperable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/plotRBF.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/plotRBF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/EXTRAS/plotSupportVectors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/svmMLiA.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/svmMLiA.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSetRBF.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSetRBF.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSetRBF2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch06/testSetRBF2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/EXTRAS/README.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/EXTRAS/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/adaboost.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/adaboost.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/horseColicTest2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/horseColicTest2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/horseColicTraining2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch07/horseColicTraining2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/abalone.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/abalone.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/ex0.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/ex0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/ex1.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/ex1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/regression.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/regression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10030.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10030.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10179.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10179.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10181.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10181.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10189.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10189.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10196.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego10196.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego8288.html" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch08/setHtml/lego8288.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/bikeSpeedVsIq_test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/bikeSpeedVsIq_train.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex0.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex00.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex00.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex2test.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/ex2test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/exp.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/exp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/exp2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/exp2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/expTest.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/expTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/regTrees.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/regTrees.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/sine.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/sine.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/treeExplore.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch09/treeExplore.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/kMeans.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/kMeans.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/places.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/places.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/testSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/testSet2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch10/testSet2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/apriori.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/apriori.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/bills20DataSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/bills20DataSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/lawAssnRules.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/lawAssnRules.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/meaning20.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/meaning20.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/recent100bills.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/recent100bills.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/recent20bills.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch11/recent20bills.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch12/fpGrowth.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch12/fpGrowth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig1.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig2.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig3.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig4.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/extras/createFig4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/pca.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/pca.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/secom.data" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/secom.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/testSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/testSet3.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch13/testSet3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch14/0_5.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch14/0_5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch14/svdRec.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch14/svdRec.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/kickStart.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/kickStart.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMean.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMean.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMeanMapper.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMeanMapper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMeanReducer.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrMeanReducer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrSVM.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrSVM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrSVMkickStart.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/mrSVMkickStart.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/myout.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/myout.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/pegasos.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/pegasos.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/proximalSVM.py" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/proximalSVM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat2.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat26" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat26" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat27" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmDat27" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmData.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/svmData.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/testSet.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/testSet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/testSet200.txt" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/Ch15/testSet200.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FromBook_machinelearninginaction/README.rst" afterPath="$PROJECT_DIR$/FromBook_machinelearninginaction/README.rst" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sort_7_quickSort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructure_in_Python/sort_7_quickSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FromBook_machinelearninginaction" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_code/test_anaconda.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_environment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_environment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_environment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_environment" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_in_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_environment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_environment" type="462c0819:PsiDirectoryNode" />
+              <item name="Learning_Tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/.pyenv/shims/python" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python_environment" sdk-home="$USER_HOME$/.pyenv/versions/2.7.13/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/.pyenv/versions/2.7.13/bin/python" />
+        <option name="myModuleName" value="python_environment" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sort_7_quickSort">
+    <configuration name="Tensorflow_note1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning_Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_environment" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning_Tensorflow/Tensorflow_note1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="massar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_environment" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_code/massar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="sort_7_quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure_in_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_environment" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure_in_Python/sort_7_quickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test_anaconda" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_environment" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_code/test_anaconda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.test_anaconda" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Tensorflow_note1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.massar" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sort_7_quickSort" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.sort_7_quickSort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.massar" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Tensorflow_note1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_anaconda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31863578-76b3-4920-824f-b906a9fb914e" name="Default" comment="" />
+      <created>1509486737154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509486737154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Learning_Tensorflow/Tensorflow_note1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/test_anaconda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/test_Goldman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/test_anaconda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_code/massar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Tensorflow/Tensorflow_note1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure_in_Python/sort_7_quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

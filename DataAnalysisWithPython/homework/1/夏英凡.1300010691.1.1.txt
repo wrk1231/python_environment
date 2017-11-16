@@ -1,0 +1,4 @@
+    我因为之前没有使用过python，所以是按照老师课件上给出的简便方法下载了anaconda，并使用conda update conda，conda update anaconda
+对其进行了更新，之后使用conda install命令安装了要求的各种包和库。
+    然而在这之后的我发现我的Spyder并不能够启动，而上网搜索也没有能够解决，最后我尝试着用anaconda中自带的launcher对其进行了update，
+在这之后他就可以正常运行了。这也是我在安装python的过程中遇到的一点小小的问题。 
