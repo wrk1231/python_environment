@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import numpy
+from numpy import matrix
 from numpy import *
 import operator
-
 
 def createDataSet(): 
     group = array([[1.0,1.1],[1.0,1.0],[0,0],[0,0.1]]) 
@@ -26,3 +26,5 @@ def file2matrix(filename):
         classLabelVector.append(int(listFromLine[-1])) 
         index += 1
     return returnMat,classLabelVector
+
+
